@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/cloud-aws-green"> <img src="https://img.shields.io/badge/code-python-blue"> <img src="https://img.shields.io/badge/tools-docker-yellow"> <img src="https://img.shields.io/badge/tools-mysql-yellow"> <img src="https://img.shields.io/badge/tools-postman-yellow"> <img src="https://img.shields.io/badge/shell-bash-red"> <img src="https://img.shields.io/badge/os-linux-black"> <img src="https://img.shields.io/badge/os-windows-black">
 <hr>
 <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behlkartik" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=behlkartik&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 <hr>

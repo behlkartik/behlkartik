@@ -10,7 +10,7 @@
 <hr>
 </p>
 
-Glad to see you here  ![visitors](https://visitor-badge.glitch.me/badge?page_id=behlkartik.behlkartik
+Glad to see you here  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id)
 
 <!--
 **behlkartik/behlkartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

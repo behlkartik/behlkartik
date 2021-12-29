@@ -1,6 +1,6 @@
 # Hello, i am kartik behl! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center" text-align="center">
+<p>
 <h3> Tools & Technologies <img src="https://toppng.com/uploads/preview/tool-icon-tools-icon-grey-11553448951frbnr5lsak.png" width="15px"></h3>
 </p>
 <p>

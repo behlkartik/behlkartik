@@ -1,7 +1,7 @@
 # Hello, i am kartik behl! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-<h3> Tools & Technologies <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfZ5l1gzsZtDycufdId-K3x86oNKO8EuyAg&usqp=CAU" width="15px"></h3>
+<h3> Tools & Technologies <img src="https://previews.123rf.com/images/eljanstock/eljanstock1811/eljanstock181109760/111876446-tools-vector-icon-isolated-on-transparent-background-tools-transparency-logo-concept.jpg" width="20px"></h3>
 </p>
 <p>
 <img src="https://img.shields.io/badge/cloud-aws-green"> <img src="https://img.shields.io/badge/code-python-blue"> <img src="https://img.shields.io/badge/tools-docker-yellow"> <img src="https://img.shields.io/badge/tools-mysql-yellow"> <img src="https://img.shields.io/badge/tools-postman-yellow"> <img src="https://img.shields.io/badge/shell-bash-red"> <img src="https://img.shields.io/badge/os-linux-black"> <img src="https://img.shields.io/badge/os-windows-black">

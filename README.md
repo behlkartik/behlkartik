@@ -6,9 +6,9 @@
 <p>
 <img src="https://img.shields.io/badge/cloud-aws-green"> <img src="https://img.shields.io/badge/code-python-blue"> <img src="https://img.shields.io/badge/tools-docker-yellow"> <img src="https://img.shields.io/badge/tools-mysql-yellow"> <img src="https://img.shields.io/badge/tools-postman-yellow"> <img src="https://img.shields.io/badge/shell-bash-red"> <img src="https://img.shields.io/badge/os-linux-black"> <img src="https://img.shields.io/badge/os-windows-black">
 </p>
-
+<hr>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=behlkartik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+<hr>
 Glad to see you here
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id)
 

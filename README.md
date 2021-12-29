@@ -1,8 +1,8 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, i am kartik behl! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=behlkartik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id)
+Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id)
 <!--
 **behlkartik/behlkartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

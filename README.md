@@ -9,7 +9,7 @@
 <hr>
 
 <p>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behlkartik&theme=dracula&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behlkartik&theme=dracula&layout=compact" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=behlkartik&show_icons=true&theme=dracula&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 <hr>

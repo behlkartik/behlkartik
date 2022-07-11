@@ -8,7 +8,7 @@
 <hr>
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behlkartik&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behlkartik&theme=dracula&layout=compact" />
 </p>
 <hr>
 <p>

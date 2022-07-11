@@ -1,5 +1,3 @@
-# Hello, i am kartik behl!
-Sofware developer, gamer, hodophile and other things.
 
 <p>
 <h3> Tools & Technologies </h3>

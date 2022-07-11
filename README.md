@@ -1,4 +1,5 @@
 # Hello, i am kartik behl! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Sofware developer, gamer, hodophile and other things.
 
 <p>
 <h3> Tools & Technologies </h3>

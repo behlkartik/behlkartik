@@ -1,4 +1,4 @@
-# Hello, i am kartik behl! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, i am kartik behl! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 Sofware developer, gamer, hodophile and other things.
 
 <p>

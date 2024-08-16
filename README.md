@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Behl</h1>
 <h3 align="center">print("I am a software developer from India")</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=behlkartik&label=Profile%20views&color=0e75b6&style=flat" alt="behlkartik" /> </p>
-
 - 🌱 I’m currently learning **Spring Framework, React**
 
 - 💬 Ask me about **python, data structures, cloud**

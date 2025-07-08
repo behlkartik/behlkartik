@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Behl</h1>
 <h3 align="center">print("I am a software developer from India")</h3>
 
-- 🌱 I’m currently learning **Django, React**
-
-- 💬 Ask me about **python, data structures, cloud**
+- 💬 Ask me about **Java, Python, Data structures, Cloud**
 
 - 📫 How to reach me **behlkartik20@gmail.com**
 
